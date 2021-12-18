@@ -1,0 +1,1 @@
+print ('It is a clean file')
