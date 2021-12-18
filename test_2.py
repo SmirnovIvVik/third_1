@@ -4,3 +4,5 @@ if i == 10:
 else:
     print('The number is not 10')
 print('End')
+
+print('It is a second change')
