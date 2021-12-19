@@ -5,6 +5,3 @@ else:
     print('The number is not 5')
 
     print('It is first change')
-
-    print('It is third change')
-
